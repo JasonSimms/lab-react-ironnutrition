@@ -1,6 +1,9 @@
 @import "./base.scss";
 @import "./card.scss";
-
+body{
+    background:pink;
+    height:100vh;
+}
 .card-flex {
     display: flex;
     justify-content: space-between;
